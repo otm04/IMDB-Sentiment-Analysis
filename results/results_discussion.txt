@@ -1,0 +1,7 @@
+RESULTS DISCUSSION
+------------------
+The MLP model was trained using VADER and TextBlob polarity features.
+The model achieved approximately 77% accuracy.
+Since only sentence-level polarity features were used,
+the model cannot capture deeper semantic meaning.
+However, performance is reasonable given only two features.
