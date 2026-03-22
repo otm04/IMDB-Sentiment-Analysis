@@ -1,0 +1,15 @@
+=== BiGRU + Pretrained Word2Vec Results ===
+
+Test Accuracy: 0.8880
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.90      0.88      0.89      1602
+    Positive       0.88      0.90      0.89      1560
+
+    accuracy                           0.89      3162
+   macro avg       0.89      0.89      0.89      3162
+weighted avg       0.89      0.89      0.89      3162
+
+Best Val Accuracy: 0.8783

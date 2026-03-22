@@ -1,0 +1,15 @@
+=== Bidirectional GRU + Attention Results ===
+
+Test Accuracy: 0.8829
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.89      0.87      0.88      3007
+    Positive       0.88      0.89      0.88      3013
+
+    accuracy                           0.88      6020
+   macro avg       0.88      0.88      0.88      6020
+weighted avg       0.88      0.88      0.88      6020
+
+Best Val Accuracy: 0.8908

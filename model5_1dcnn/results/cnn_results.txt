@@ -1,0 +1,15 @@
+=== TextCNN (1D CNN) Results ===
+
+Test Accuracy: 0.8757
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.88      0.87      0.88      3563
+    Positive       0.87      0.88      0.88      3564
+
+    accuracy                           0.88      7127
+   macro avg       0.88      0.88      0.88      7127
+weighted avg       0.88      0.88      0.88      7127
+
+Best Val Accuracy: 0.8765
