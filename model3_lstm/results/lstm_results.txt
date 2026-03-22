@@ -1,0 +1,15 @@
+=== Bidirectional LSTM Results ===
+
+Test Accuracy: 0.7487
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.81      0.66      0.73       402
+    Positive       0.71      0.84      0.77       394
+
+    accuracy                           0.75       796
+   macro avg       0.76      0.75      0.75       796
+weighted avg       0.76      0.75      0.75       796
+
+Best Val Accuracy: 0.7179
